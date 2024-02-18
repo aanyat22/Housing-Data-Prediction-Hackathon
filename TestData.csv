@@ -1,0 +1,5 @@
+id,area,bedrooms,bathrooms,stories,mainroad,guestroom,basement,hotwaterheating,airconditioning,parking,prefarea,furnishingstatus,price
+1,4000,2,1,1,yes,no,no,no,no,0,no,unfurnished,2965635.599664474
+2,5000,3,1,1,no,no,no,no,no,0,no,furnished,3119103.91370196
+3,6000,3,1,2,yes,no,no,no,no,0,no,unfurnished,4023315.2782722157
+4,2850,3,2,2,no,no,yes,no,no,0,yes,unfurnished,4825778.088273686
